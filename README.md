@@ -27,11 +27,6 @@ and monitoring of your microservices based system
 
 - [10 - Microservices monitoring](labs/10-Microservices_monitoring/README.md)
 
-## Assignments
-
-- [01 - Library application](assignments/01-Library_application/README.md)
-
-
 
 ## Appendinces
 
