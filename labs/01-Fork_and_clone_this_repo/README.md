@@ -6,9 +6,9 @@
 
 ## Fork the repo
 
-Open your browser and go to: https://github.com/sunnyvale-academy/ITS-ICT_Microservices
+Open your browser and go to: https://github.com/sunnyvale-academy/SNY.PRG.MSS.01.01.00
 
-The ITS-ICT_Microservices repo home page opens.
+The SNY.PRG.MSS.01.01.00 repo home page opens.
 
 Click on **Fork** button at the top-right of the screen. GitHub asks you to authenticate.
 
@@ -25,7 +25,7 @@ In the following command, please make sure to change \<YOUR GITHUB ACCOUNT\> pla
 
 ```
 $ cd <YOUR PREFERRED FOLDER>
-$ git clone https://github.com/<YOUR GITHUB ACCOUNT>/ITS-ICT_Microservices
+$ git clone https://github.com/<YOUR GITHUB ACCOUNT>/SNY.PRG.MSS.01.01.00
 ```
 
 Please not that your forked repo, nor your local clone, will receive new commits from the original repo automatically; you need to pull updates manually, please refer to appendix [A - Sync copy of forked repo](../../appendices/A-Sync_copy_of_forked_repo/README.md)
