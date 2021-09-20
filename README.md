@@ -1,4 +1,7 @@
-# ITS-ICT_Microservices
+# The microservices software paradigm
+
+Learn techniques to help you in the design, development, deployment
+and monitoring of your microservices based system
 
 ## Labs
 
