@@ -121,12 +121,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.apache.camel.springboot/camel-mock-starter -->
-        <dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-mock-starter</artifactId>
-            <version>3.9.0</version>
-        </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.camel/camel-test-spring-junit5 -->
         <dependency>
